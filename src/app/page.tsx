@@ -218,7 +218,7 @@ export default function LandingPage() {
 
       <div id="footer" data-section="footer">
         <FooterSocial
-          brandName="Parnaso"
+          logoText="Parnaso"
           copyrightText="© 2024 Ristorante Caffè Parnaso - Roma"
           columns={[
             {
